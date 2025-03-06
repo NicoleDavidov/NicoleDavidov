@@ -1,4 +1,4 @@
-#👋 Hi, I’m Nicole
+# 👋 Hi, I’m Nicole
 
 I'm a final-year Computer Science student at HIT - Holon Institute of Technology, passionate about software development and solving real-world challenges. 
 I enjoy learning new technologies, experimenting with different tools, and applying my knowledge in practical projects.

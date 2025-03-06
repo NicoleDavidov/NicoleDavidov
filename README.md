@@ -3,9 +3,9 @@
 I'm a final-year Computer Science student at HIT - Holon Institute of Technology, passionate about software development and solving real-world challenges. 
 I enjoy learning new technologies, experimenting with different tools, and applying my knowledge in practical projects.
 
-- 🎓 I’m currently learning 3rd year student, BSc in Computer Science at HIT
-- 🤗 I’m looking to collaborate on open-source software projects, especially in the areas of web development and machine learning.
-- 💼 I'm looking for a Junior Developer position, with a focus on software development and machine learning.
+- 🎓 I'm currently a 3rd-year student pursuing a BSc in Computer Science at HIT.
+- 🤗 I’m eager to collaborate on open-source projects, especially those focused on web development and machine learning.
+- 💼 I’m seeking a Junior Developer position where I can apply my skills in software development and machine learning.
 - 🔧 Skills & Technologies: Python, JavaScript, React, Machine Learning, SQL.
 
 

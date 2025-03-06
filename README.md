@@ -15,6 +15,7 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 The Cost Manager App is a personal finance management tool designed to help users efficiently track their expenses and incomes. The app allows users to filter data by month, year, and category, and provides visual reports through pie charts for better financial decision-making. Built using modern web technologies, the app offers an intuitive user interface for managing finances effectively.
 
 **Technologies:** JavaScript, React, HTML, CSS.
+
 **link:** https://costmanager-y239.onrender.com
 
 ### 🫁 DL Final Project - Lung Cancer Classification

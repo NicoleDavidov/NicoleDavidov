@@ -15,6 +15,7 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 The Cost Manager App is a personal finance management tool designed to help users efficiently track their expenses and incomes. The app allows users to filter data by month, year, and category, and provides visual reports through pie charts for better financial decision-making. Built using modern web technologies, the app offers an intuitive user interface for managing finances effectively.
 
 **Technologies:** JavaScript, React, HTML, CSS.
+**link:** https://costmanager-y239.onrender.com
 
 ### 🫁 DL Final Project - Lung Cancer Classification
 This project aims to classify lung cancer images into 'Benign,' 'Malignant,' and 'Normal' categories using deep learning techniques. A CNN-based model was implemented, with transfer learning used to boost accuracy. Data preprocessing, including normalization and augmentation, enhanced model performance. The CNN model achieved 99% accuracy, while transfer learning reached 100%. The project also explored techniques such as SMOTE for class imbalance and hyperparameter tuning. Future improvements include testing advanced architectures and deploying the model for real-time diagnosis.

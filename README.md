@@ -10,6 +10,17 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 
 # 💡 My Projects
+
+### 🧠 Study Buddy – AWS Hackathon Demo
+Study Buddy is an interactive chatbot demo developed as part of an internal AWS-focused hackathon at HIT – Holon Institute of Technology.
+The project simulates a smart academic assistant that detects a student's grade decline and provides personalized support like study recommendations and lecture summaries.
+The system is built using React and Tailwind CSS and demonstrates how AWS tools like Amazon S3, Transcribe, and Bedrock could be integrated in a full system.
+
+**Technologies:** React, JavaScript, Tailwind CSS, HTML, Babel
+**Conceptual AWS Tools:** Amazon S3, Transcribe, Bedrock, Lambda, DynamoDB, EventBridge, Amazon Lex
+**Demo:** [Watch on YouTube](https://youtu.be/9B5jRm6vPm8)
+**GitHub Repo:** [study-buddy-hackathon](https://github.com/NicoleDavidov/study-buddy-hackathon)
+
 ### 💵 Cost Manager App
 The Cost Manager App is a personal finance management tool designed to help users efficiently track their expenses and incomes. The app allows users to filter data by month, year, and category, and provides visual reports through pie charts for better financial decision-making. Built using modern web technologies, the app offers an intuitive user interface for managing finances effectively.
 

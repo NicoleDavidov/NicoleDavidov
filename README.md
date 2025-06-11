@@ -11,7 +11,7 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 # 💡 My Projects
 
-### [🧠 Study Buddy – AWS Hackathon Demo](https://github.com/NicoleDavidov/study-buddy-hackathon)
+### 🧠 Study Buddy – AWS Hackathon Demo
 Study Buddy is an interactive chatbot demo developed as part of an internal AWS-focused hackathon at HIT – Holon Institute of Technology.
 The project simulates a smart academic assistant that detects a student's grade decline and provides personalized support like study recommendations and lecture summaries.
 The system is built using React and Tailwind CSS and demonstrates how AWS tools like Amazon S3, Transcribe, and Bedrock could be integrated in a full system.

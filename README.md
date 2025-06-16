@@ -24,14 +24,25 @@ The system is built using React and Tailwind CSS and demonstrates how AWS tools 
 
 **GitHub Repo:** [study-buddy-hackathon](https://github.com/NicoleDavidov/study-buddy-hackathon)
 
+
+### 💻 Cost Manager Server
+The Cost Manager Server is the backend component of the Cost Manager App. It provides a RESTful API that allows users to manage their personal expenses by supporting operations such as adding cost items, retrieving user details, generating monthly reports, and returning developer information. The backend is fully integrated with MongoDB and deployed on Render.
+
+**Technologies:** Node.js, Express.js, MongoDB Atlas, Mongoose, Python (for testing), JSDoc (for documentation)
+
+**Link:** [ost Manager Server(Render)](https://costmanagerserversideproject.onrender.com/) 
+
+**GitHub Repo:** [Cost Manager Server](https://github.com/NicoleDavidov/CostManagerServerSide)
+
+
 ### 💵 Cost Manager App
 The Cost Manager App is a personal finance management tool designed to help users efficiently track their expenses and incomes. The app allows users to filter data by month, year, and category, and provides visual reports through pie charts for better financial decision-making. Built using modern web technologies, the app offers an intuitive user interface for managing finances effectively.
 
 **Technologies:** JavaScript, React, HTML, CSS.
 
-**link:** [Cost Manager Website](https://costmanager-y239.onrender.com)
+**Link:** [Cost Manager Website](https://costmanager-y239.onrender.com)
 
-**GitHub Repo:** [Cost Manager](https://github.com/NicoleDavidov/CostManager)
+**GitHub Repo:** [Cost Manager Client](https://github.com/NicoleDavidov/CostManager)
 
 ### 🫁 DL Final Project - Lung Cancer Classification
 This project aims to classify lung cancer images into 'Benign,' 'Malignant,' and 'Normal' categories using deep learning techniques. A CNN-based model was implemented, with transfer learning used to boost accuracy. Data preprocessing, including normalization and augmentation, enhanced model performance. The CNN model achieved 99% accuracy, while transfer learning reached 100%. The project also explored techniques such as SMOTE for class imbalance and hyperparameter tuning. Future improvements include testing advanced architectures and deploying the model for real-time diagnosis.

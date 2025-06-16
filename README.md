@@ -11,20 +11,6 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 # 💡 My Projects
 
-### 🧠 Study Buddy – AWS Hackathon Demo
-Study Buddy is an interactive chatbot demo developed as part of an internal AWS-focused hackathon at HIT – Holon Institute of Technology.
-The project simulates a smart academic assistant that detects a student's grade decline and provides personalized support like study recommendations and lecture summaries.
-The system is built using React and Tailwind CSS and demonstrates how AWS tools like Amazon S3, Transcribe, and Bedrock could be integrated in a full system.
-
-**Technologies:** React, JavaScript, Tailwind CSS, HTML, Babel
-
-**Conceptual AWS Tools:** Amazon S3, Transcribe, Bedrock, Lambda, DynamoDB, EventBridge, Amazon Lex
-
-**Demo:** [Watch on YouTube](https://youtu.be/9B5jRm6vPm8)
-
-**GitHub Repo:** [study-buddy-hackathon](https://github.com/NicoleDavidov/study-buddy-hackathon)
-
-
 ### 💻 Cost Manager Server
 The Cost Manager Server is the backend component of the Cost Manager App. It provides a RESTful API that allows users to manage their personal expenses by supporting operations such as adding cost items, retrieving user details, generating monthly reports, and returning developer information. The backend is fully integrated with MongoDB and deployed on Render.
 
@@ -43,6 +29,19 @@ The Cost Manager App is a personal finance management tool designed to help user
 **Link:** [Cost Manager Website](https://costmanager-y239.onrender.com)
 
 **GitHub Repo:** [Cost Manager Client](https://github.com/NicoleDavidov/CostManager)
+
+### 🧠 Study Buddy – AWS Hackathon Demo
+Study Buddy is an interactive chatbot demo developed as part of an internal AWS-focused hackathon at HIT – Holon Institute of Technology.
+The project simulates a smart academic assistant that detects a student's grade decline and provides personalized support like study recommendations and lecture summaries.
+The system is built using React and Tailwind CSS and demonstrates how AWS tools like Amazon S3, Transcribe, and Bedrock could be integrated in a full system.
+
+**Technologies:** React, JavaScript, Tailwind CSS, HTML, Babel
+
+**Conceptual AWS Tools:** Amazon S3, Transcribe, Bedrock, Lambda, DynamoDB, EventBridge, Amazon Lex
+
+**Demo:** [Watch on YouTube](https://youtu.be/9B5jRm6vPm8)
+
+**GitHub Repo:** [study-buddy-hackathon](https://github.com/NicoleDavidov/study-buddy-hackathon)
 
 ### 🫁 DL Final Project - Lung Cancer Classification
 This project aims to classify lung cancer images into 'Benign,' 'Malignant,' and 'Normal' categories using deep learning techniques. A CNN-based model was implemented, with transfer learning used to boost accuracy. Data preprocessing, including normalization and augmentation, enhanced model performance. The CNN model achieved 99% accuracy, while transfer learning reached 100%. The project also explored techniques such as SMOTE for class imbalance and hyperparameter tuning. Future improvements include testing advanced architectures and deploying the model for real-time diagnosis.

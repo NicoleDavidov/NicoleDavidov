@@ -30,7 +30,7 @@ The Cost Manager Server is the backend component of the Cost Manager App. It pro
 
 **Technologies:** Node.js, Express.js, MongoDB Atlas, Mongoose, Python (for testing), JSDoc (for documentation)
 
-**Link:** [ost Manager Server(Render)](https://costmanagerserversideproject.onrender.com/) 
+**Link:** [Cost Manager Server(Render)](https://costmanagerserversideproject.onrender.com/) 
 
 **GitHub Repo:** [Cost Manager Server](https://github.com/NicoleDavidov/CostManagerServerSide)
 

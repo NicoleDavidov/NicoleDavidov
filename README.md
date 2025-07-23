@@ -11,6 +11,26 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 # 💡 My Projects
 
+### 📊 Profit Analyzer
+Profit Analyzer is an advanced Java-based client-server application designed to analyze financial sequences and identify maximum profit periods, loss trends, and break-even intervals using efficient algorithms.
+
+✅ Key Features:
+- JavaFX Frontend – User-friendly interface for input and result visualization.
+- Multi-threaded TCP Server – Handles multiple clients concurrently using JSON-based communication.
+- Algorithm Module – Custom implementations of:
+    * Kadane's Algorithm for maximum profit analysis
+    * Prefix Sum for zero-return detection
+-Design Patterns – Includes Factory, Strategy, and Layered Architecture for clean modular design.
+
+**Technologies:** Java (JavaFX, TCP Sockets, Threads), Gson (JSON), OOP Principles, Design Patterns (Factory, Strategy), JUnit (Testing)
+
+**GitHub Repositories:**
+Main Project: [Profit Analyzer](https://github.com/NicoleDavidov/Profit-Analyzer-Advanced-Java-Project)
+Algorithm Module: [Advanced Java Algorithm Model](https://github.com/NicoleDavidov/Advanced-Java-Algorithm-Model/tree/e52af1514cba84069bba2672b3205b5c22192cc8)
+Server Application: Advanced Java Project Server(https://github.com/NicoleDavidov/Advanced-Java-Project-Server/tree/de0654f390f82ee5d851db24a25ac88026bb0df3)
+Client Application: Advanced Java Project Client(https://github.com/NicoleDavidov/Advanced-Java-Project-Client/tree/14e60956cdef19a24adcef8ce454cebd5fdbacf3)
+
+
 ### 💻 Cost Manager Server
 The Cost Manager Server is the backend component of the Cost Manager App. It provides a RESTful API that allows users to manage their personal expenses by supporting operations such as adding cost items, retrieving user details, generating monthly reports, and returning developer information. The backend is fully integrated with MongoDB and deployed on Render.
 

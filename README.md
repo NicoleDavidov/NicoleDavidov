@@ -27,8 +27,8 @@ Profit Analyzer is an advanced Java-based client-server application designed to 
 **GitHub Repositories:**
 Main Project: [Profit Analyzer](https://github.com/NicoleDavidov/Profit-Analyzer-Advanced-Java-Project)
 Algorithm Module: [Advanced Java Algorithm Model](https://github.com/NicoleDavidov/Advanced-Java-Algorithm-Model/tree/e52af1514cba84069bba2672b3205b5c22192cc8)
-Server Application: Advanced Java Project Server(https://github.com/NicoleDavidov/Advanced-Java-Project-Server/tree/de0654f390f82ee5d851db24a25ac88026bb0df3)
-Client Application: Advanced Java Project Client(https://github.com/NicoleDavidov/Advanced-Java-Project-Client/tree/14e60956cdef19a24adcef8ce454cebd5fdbacf3)
+Server Application: [Advanced Java Project Server](https://github.com/NicoleDavidov/Advanced-Java-Project-Server/tree/de0654f390f82ee5d851db24a25ac88026bb0df3)
+Client Application: [Advanced Java Project Client](https://github.com/NicoleDavidov/Advanced-Java-Project-Client/tree/14e60956cdef19a24adcef8ce454cebd5fdbacf3)
 
 
 ### 💻 Cost Manager Server

@@ -13,6 +13,7 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 ### 🪙 Bitcoin Predictor - Professional Analytics Platform
 Bitcoin Predictor is an advanced machine learning platform designed to predict Bitcoin prices using real-time market data and institutional-grade analytics. The system integrates multiple data sources including cryptocurrencies, stocks, commodities, and macroeconomic indicators to deliver accurate predictions through ensemble learning techniques. The project demonstrates the complete data science lifecycle from research and development to production deployment with a professional web dashboard.
+
 ✅ Key Features:
 
 - Ensemble ML Models – Stacking Regressor combining Random Forest and Gradient Boosting achieving 90%+ accuracy (R² Score)

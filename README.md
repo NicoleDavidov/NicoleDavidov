@@ -23,6 +23,7 @@ Bitcoin Predictor is an advanced machine learning platform designed to predict B
 - Comprehensive Analysis – Multi-asset correlation analysis, feature importance ranking, and interactive visualizations
 
 **Technologies:** Python, Streamlit, scikit-learn, Plotly, yfinance, Pandas, NumPy, CSS3, Ensemble Learning (Random Forest, Gradient Boosting, Stacking), Time Series Analysis
+
 **Live Application:** [Bitcoin Trading Analytics](https://btc-trading-analytics.streamlit.app/)
 
 **GitHub Repo:** [Bitcoin-Prediction](https://github.com/NicoleDavidov/Bitcoin-Prediction)

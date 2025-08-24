@@ -11,6 +11,23 @@ I enjoy learning new technologies, experimenting with different tools, and apply
 
 # 💡 My Projects
 
+### 🪙 Bitcoin Predictor - Professional Analytics Platform
+Bitcoin Predictor is an advanced machine learning platform designed to predict Bitcoin prices using real-time market data and institutional-grade analytics. The system integrates multiple data sources including cryptocurrencies, stocks, commodities, and macroeconomic indicators to deliver accurate predictions through ensemble learning techniques. The project demonstrates the complete data science lifecycle from research and development to production deployment with a professional web dashboard.
+✅ Key Features:
+
+- Ensemble ML Models – Stacking Regressor combining Random Forest and Gradient Boosting achieving 90%+ accuracy (R² Score)
+- Real-time Data Integration – Live market feeds from Yahoo Finance API with hourly updates and smart caching
+- Advanced Feature Engineering – Custom economic indicators including Copper-to-Gold Ratio and Money-to-Dollar Ratio
+- Professional Web Dashboard – Bloomberg Terminal-inspired UI built with Streamlit, fully responsive for mobile and desktop
+- Production-Ready Deployment – Live web application with error handling, performance monitoring, and data export functionality
+- Comprehensive Analysis – Multi-asset correlation analysis, feature importance ranking, and interactive visualizations
+
+**Technologies:** Python, Streamlit, scikit-learn, Plotly, yfinance, Pandas, NumPy, CSS3, Ensemble Learning (Random Forest, Gradient Boosting, Stacking), Time Series Analysis
+**Live Application:** [Bitcoin Trading Analytics](https://btc-trading-analytics.streamlit.app/)
+
+**GitHub Repo:** [Bitcoin-Prediction](https://github.com/NicoleDavidov/Bitcoin-Prediction)
+
+
 ### 📊 Profit Analyzer
 Profit Analyzer is an advanced Java-based client-server application designed to analyze financial sequences and identify maximum profit periods, loss trends, and break-even intervals using efficient algorithms.
 

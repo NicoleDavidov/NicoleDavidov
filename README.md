@@ -1,101 +1,60 @@
 # 👋 Hi, I’m Nicole
 
-I'm a final-year Computer Science student at HIT - Holon Institute of Technology, passionate about software development and solving real-world challenges. 
-I enjoy learning new technologies, experimenting with different tools, and applying my knowledge in practical projects.
+I'm a Computer Science graduate from HIT – Holon Institute of Technology (B.Sc., GPA: 90), passionate about cybersecurity and blue-team operations. I'm actively building my skills in threat detection, log analysis, and SOC workflows — and looking to start my career as a SOC Analyst.
 
-- 🎓 I'm currently a 3rd-year student pursuing a BSc in Computer Science at HIT.
-- 🤗 I’m eager to collaborate on open-source projects, especially those focused on web development and machine learning.
-- 💼 I’m seeking a Junior Developer position where I can apply my skills in software development and machine learning.
-- 🔧 Skills & Technologies: Java, Python, JavaScript, React, Machine Learning, SQL.
+🛡️ Currently focusing on:
+- SOC Level 1 & Cybersecurity 101 paths on TryHackMe
+- Building tools for log-based anomaly detection
+- Studying SIEM fundamentals and incident response workflows
 
+**🔧 Skills & Technologies**
+**Security:** Log analysis, anomaly detection, threat identification, network monitoring
+**Networking:** TCP/IP, HTTP, DNS, DHCP
+**Scripting & Tools:** Python, Bash, PowerShell
+**Other:** Java, JavaScript, React, Node.js, SQL, REST APIs
 
 # 💡 My Projects
 
-### 🪙 Bitcoin Predictor - Professional Analytics Platform
-Bitcoin Predictor is an advanced machine learning platform designed to predict Bitcoin prices using real-time market data and institutional-grade analytics. The system integrates multiple data sources including cryptocurrencies, stocks, commodities, and macroeconomic indicators to deliver accurate predictions through ensemble learning techniques. The project demonstrates the complete data science lifecycle from research and development to production deployment with a professional web dashboard.
+### 🔍 SOC Log Analyzer (In Progress)
+A Python-based monitoring tool for detecting suspicious activity in system logs.
 
-✅ Key Features:
+- Detects failed login attempts and brute-force patterns
+- Counts and tracks unique source IPs
+- Generates structured analysis reports for review
 
-- Ensemble ML Models – Stacking Regressor combining Random Forest and Gradient Boosting achieving 90%+ accuracy (R² Score)
-- Real-time Data Integration – Live market feeds from Yahoo Finance API with hourly updates and smart caching
-- Advanced Feature Engineering – Custom economic indicators including Copper-to-Gold Ratio and Money-to-Dollar Ratio
-- Professional Web Dashboard – Bloomberg Terminal-inspired UI built with Streamlit, fully responsive for mobile and desktop
-- Production-Ready Deployment – Live web application with error handling, performance monitoring, and data export functionality
-- Comprehensive Analysis – Multi-asset correlation analysis, feature importance ranking, and interactive visualizations
-
-**Technologies:** Python, Streamlit, scikit-learn, Plotly, yfinance, Pandas, NumPy, CSS3, Ensemble Learning (Random Forest, Gradient Boosting, Stacking), Time Series Analysis
-
-**Live Application:** [Bitcoin Trading Analytics](https://btc-trading-analytics.streamlit.app/)
-
-**GitHub Repo:** [Bitcoin-Prediction](https://github.com/NicoleDavidov/Bitcoin-Prediction)
-
+**Technologies:** Python
+**Repo:** [SOC-Log-Analyzer](https://github.com/NicoleDavidov/SOC-Log-Analyzer/tree/main)
 
 ### 📊 Profit Analyzer
-Profit Analyzer is an advanced Java-based client-server application designed to analyze financial sequences and identify maximum profit periods, loss trends, and break-even intervals using efficient algorithms.
+Advanced Java client-server application demonstrating multi-threaded TCP communication and modular architecture.
 
-✅ Key Features:
-- JavaFX Frontend – User-friendly interface for input and result visualization.
-- Multi-threaded TCP Server – Handles multiple clients concurrently using JSON-based communication.
-- Algorithm Module – Custom implementations of:
-    * Kadane's Algorithm for maximum profit analysis
-    * Prefix Sum for zero-return detection
--Design Patterns – Includes Factory, Strategy, and Layered Architecture for clean modular design.
+- Multi-threaded TCP Server handling multiple clients concurrently
+- JSON-based communication protocol
+- Clean modular design with Factory and Strategy patterns
 
-**Technologies:** Java (JavaFX, TCP Sockets, Threads), Gson (JSON), OOP Principles, Design Patterns (Factory, Strategy), JUnit (Testing)
+**Technologies:** Java, TCP Sockets, JSON, JUnit
+**Repo:** [Profit Analyzer](https://github.com/NicoleDavidov/Profit-Analyzer-Advanced-Java-Project)
 
-**GitHub Repositories:**
+### 🪙 Bitcoin Predictor
+Machine learning platform for Bitcoin price prediction using real-time market data.
 
-Main Project: [Profit Analyzer](https://github.com/NicoleDavidov/Profit-Analyzer-Advanced-Java-Project)
+- Ensemble ML models (Random Forest + Gradient Boosting)
+- Real-time data integration via Yahoo Finance API
+- Interactive web dashboard built with Streamlit
 
-Algorithm Module: [Advanced Java Algorithm Model](https://github.com/NicoleDavidov/Advanced-Java-Algorithm-Model/tree/e52af1514cba84069bba2672b3205b5c22192cc8)
-
-Server Application: [Advanced Java Project Server](https://github.com/NicoleDavidov/Advanced-Java-Project-Server/tree/de0654f390f82ee5d851db24a25ac88026bb0df3)
-
-Client Application: [Advanced Java Project Client](https://github.com/NicoleDavidov/Advanced-Java-Project-Client/tree/14e60956cdef19a24adcef8ce454cebd5fdbacf3)
+**Technologies:** Python, scikit-learn, Streamlit, Plotly, Pandas
+**Repo:** [Bitcoin-Prediction](https://github.com/NicoleDavidov/Bitcoin-Prediction)
+**Live Application:** [Bitcoin Trading Analytics](https://btc-trading-analytics.streamlit.app/)
 
 
-### 💻 Cost Manager Server
-The Cost Manager Server is the backend component of the Cost Manager App. It provides a RESTful API that allows users to manage their personal expenses by supporting operations such as adding cost items, retrieving user details, generating monthly reports, and returning developer information. The backend is fully integrated with MongoDB and deployed on Render.
+### Other Projects
 
-**Technologies:** Node.js, Express.js, MongoDB Atlas, Mongoose, Python (for testing), JSDoc (for documentation)
+- 💵 [Cost Manager App]([https://costmanager-y239.onrender.com](https://github.com/NicoleDavidov/CostManager-FullStack)) — Personal finance app (React, Node.js, MongoDB)
+- 🧠 [study buddy](https://github.com/NicoleDavidov/study-buddy-hackathon) — AWS Hackathon chatbot demo (React, Tailwind CSS)
+- 🫁 [Lung Cancer Classification](https://github.com/NicoleDavidov/DL_finalProject) — CNN-based deep learning model (Python, TensorFlow)
+- 🎯 [Breast Cancer Classification](https://github.com/NicoleDavidov/BreastCancerML) — ML classification project (scikit-learn, Pandas)
 
-**Link:** [Cost Manager Server(Render)](https://costmanagerserversideproject.onrender.com/) 
-
-**GitHub Repo:** [Cost Manager Server](https://github.com/NicoleDavidov/CostManagerServerSide)
-
-
-### 💵 Cost Manager App
-The Cost Manager App is a personal finance management tool designed to help users efficiently track their expenses and incomes. The app allows users to filter data by month, year, and category, and provides visual reports through pie charts for better financial decision-making. Built using modern web technologies, the app offers an intuitive user interface for managing finances effectively.
-
-**Technologies:** JavaScript, React, HTML, CSS.
-
-**Link:** [Cost Manager Website](https://costmanager-y239.onrender.com)
-
-**GitHub Repo:** [Cost Manager Client](https://github.com/NicoleDavidov/CostManager)
-
-### 🧠 Study Buddy – AWS Hackathon Demo
-Study Buddy is an interactive chatbot demo developed as part of an internal AWS-focused hackathon at HIT – Holon Institute of Technology.
-The project simulates a smart academic assistant that detects a student's grade decline and provides personalized support like study recommendations and lecture summaries.
-The system is built using React and Tailwind CSS and demonstrates how AWS tools like Amazon S3, Transcribe, and Bedrock could be integrated in a full system.
-
-**Technologies:** React, JavaScript, Tailwind CSS, HTML, Babel
-
-**Conceptual AWS Tools:** Amazon S3, Transcribe, Bedrock, Lambda, DynamoDB, EventBridge, Amazon Lex
-
-**Demo:** [Watch on YouTube](https://youtu.be/9B5jRm6vPm8)
-
-**GitHub Repo:** [study-buddy-hackathon](https://github.com/NicoleDavidov/study-buddy-hackathon)
-
-### 🫁 DL Final Project - Lung Cancer Classification
-This project aims to classify lung cancer images into 'Benign,' 'Malignant,' and 'Normal' categories using deep learning techniques. A CNN-based model was implemented, with transfer learning used to boost accuracy. Data preprocessing, including normalization and augmentation, enhanced model performance. The CNN model achieved 99% accuracy, while transfer learning reached 100%. The project also explored techniques such as SMOTE for class imbalance and hyperparameter tuning. Future improvements include testing advanced architectures and deploying the model for real-time diagnosis.
-
-**Technologies:** Python, TensorFlow, Keras, OpenCV, CNN
-
-**GitHub Repo:** [DL Final Project](https://github.com/NicoleDavidov/DL_finalProject)
-
-### 🎯 Machine Learning Assignment Project - Breast Cancer Classification
-This project focuses on using machine learning algorithms to classify breast cancer masses as either malignant or benign using the Breast Cancer Wisconsin (Diagnostic) dataset. The dataset includes 569 instances with 30 numeric features related to cell characteristics. Data preprocessing and feature selection techniques were applied to improve model performance. Several algorithms were tested, including Logistic Regression, SVM, and Random Forest. The project evaluates the model using accuracy, precision, recall, and F1-score to ensure effective classification of cancer types.
-
-**Technologies:** Python, scikit-learn, Pandas, NumPy
-
-**GitHub Repo:** [Machine Learning Project](https://github.com/NicoleDavidov/BreastCancerML)
+### 📫 Contact
+- 📧 nicoledavidov.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicoledavidov/)
+- 🌐 Portfolio

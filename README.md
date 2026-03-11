@@ -23,6 +23,7 @@ A Python-based monitoring tool for detecting suspicious activity in system logs.
 - Generates structured analysis reports for review
 
 **Technologies:** Python
+
 **Repo:** [SOC-Log-Analyzer](https://github.com/NicoleDavidov/SOC-Log-Analyzer/tree/main)
 
 ### 📊 Profit Analyzer
@@ -33,6 +34,7 @@ Advanced Java client-server application demonstrating multi-threaded TCP communi
 - Clean modular design with Factory and Strategy patterns
 
 **Technologies:** Java, TCP Sockets, JSON, JUnit
+
 **Repo:** [Profit Analyzer](https://github.com/NicoleDavidov/Profit-Analyzer-Advanced-Java-Project)
 
 ### 🪙 Bitcoin Predictor
@@ -43,7 +45,9 @@ Machine learning platform for Bitcoin price prediction using real-time market da
 - Interactive web dashboard built with Streamlit
 
 **Technologies:** Python, scikit-learn, Streamlit, Plotly, Pandas
+
 **Repo:** [Bitcoin-Prediction](https://github.com/NicoleDavidov/Bitcoin-Prediction)
+
 **Live Application:** [Bitcoin Trading Analytics](https://btc-trading-analytics.streamlit.app/)
 
 

@@ -1,17 +1,7 @@
 # 👋 Hi, I’m Nicole
 
-I'm a Computer Science graduate from HIT – Holon Institute of Technology (B.Sc., GPA: 90), passionate about cybersecurity and blue-team operations. I'm actively building my skills in threat detection, log analysis, and SOC workflows — and looking to start my career as a SOC Analyst.
+B.Sc. Computer Science graduate (GPA 90) with experience in technical support, customer communication, and tutoring. Skilled in troubleshooting, understanding customer needs, and explaining technical concepts clearly.
 
-🛡️ Currently focusing on:
-- SOC Level 1 & Cybersecurity 101 paths on TryHackMe
-- Building tools for log-based anomaly detection
-- Studying SIEM fundamentals and incident response workflows
-
-**🔧 Skills & Technologies**
-**Security:** Log analysis, anomaly detection, threat identification, network monitoring
-**Networking:** TCP/IP, HTTP, DNS, DHCP
-**Scripting & Tools:** Python, Bash, PowerShell
-**Other:** Java, JavaScript, React, Node.js, SQL, REST APIs
 
 # 💡 My Projects
 

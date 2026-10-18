@@ -5,17 +5,6 @@ B.Sc. Computer Science graduate (GPA 90) with experience in technical support, c
 
 # 💡 My Projects
 
-### 🔍 SOC Log Analyzer (In Progress)
-A Python-based monitoring tool for detecting suspicious activity in system logs.
-
-- Detects failed login attempts and brute-force patterns
-- Counts and tracks unique source IPs
-- Generates structured analysis reports for review
-
-**Technologies:** Python
-
-**Repo:** [SOC-Log-Analyzer](https://github.com/NicoleDavidov/SOC-Log-Analyzer/tree/main)
-
 ### 📊 Profit Analyzer
 Advanced Java client-server application demonstrating multi-threaded TCP communication and modular architecture.
 
